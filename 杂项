@@ -2,3 +2,12 @@ Socket Pragramming:
 一切都和socket类有关
 The Document Object MOdel is a platform and language-neutral interface that will allow programs and scripts to dynamically access and update
 the content,structure and style of documents.
+
+
+GC:JAVA的垃圾回收机制
+want to see something cool about gc,please to watch a blog:
+http://www.cubrid.org/blog/dev-platform/understanding-java-garbage-collection/
+
+webkit:white box for web developer:
+want to see songthing cool about webkit, plesae to watch blog:
+http://www.paulirish.com/2013/webkit-for-developers/
